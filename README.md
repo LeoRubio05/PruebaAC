@@ -3,6 +3,7 @@ Crea un repositorio en GitHub para el proyecto.
 El proyecto consiste en la elaboración de una servicio REST para el manejo de usuarios y productos con un frontend basico
 
 > Procura realizar por lo menos un commit por feature.
+> 
 > Puedes crear un fork de este repositorio o crea tu repositorio publico.
 
 ## Feature 1 Backend setup:
