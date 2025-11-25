@@ -3,6 +3,7 @@ Crea un repositorio en GitHub para el proyecto.
 El proyecto consiste en la elaboración de una servicio REST para el manejo de usuarios y productos con un frontend basico
 
 > Procura realizar por lo menos un commit por feature.
+> Puedes crear un fork de este repositorio o crea tu repositorio publico.
 
 ## Feature 1 Backend setup:
 Configura un ambiente basico para empezar a codificar, nosotros utlizamos tecnologias como SpringBoot (Java) o Codeigniter (PHP), pero puedes utilizar el framework con el que te sientas mas familiarizado.
@@ -13,13 +14,10 @@ Crea un endpoint con una respuesta de "Hola Mundo".
 Crea un catalogo basico de sistema para manejar productos. Un producto debe contar por lo menos con la información basica como SKU, nombre, precio y marca o descripción.
 De igual manera para los usuarios deben contar por lo menos con nombre, correo electronico y contraseña.
 
->
-> En el sistema se deben tener al menos 2 tipos de usuarios: 
-> - Administradores para crear, actualizar y eliminar productos y otros a usuarios
-> - Usuarios anonimos que solo puedan obtener información de los productos pero no puedan realizar cambios.
->
-
-Si un administrador realiza un cambio en un producto se debe de crear un log de dicho cambio.
+En el sistema se deben tener al menos 2 tipos de usuarios: 
+- Administradores para crear, actualizar y eliminar productos y otros a usuarios
+- Usuarios anonimos que solo puedan obtener información de los productos pero no puedan realizar cambios.
+- Si un administrador realiza un cambio en un producto se debe de crear un log de dicho cambio.
 
 
 ## Feature 3 Interfaz de usuario
